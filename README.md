@@ -1,2 +1,2 @@
 [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=codebygideon&custom_title=Estat%C3%ADsticas%20do%20GitHub%20&include_all_commits=true&theme=gruvbox)](https://github-stats-extended.vercel.app/api?username=codebygideon&custom_title=Estat%C3%ADsticas%20do%20GitHub%20&include_all_commits=true&theme=gruvbox)
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/wakatime?username=codebygideon&layout=compact&custom_title=WakaTime&langs_count=6&theme=shadow_blue)](https://wakatime.com/@codebygideon)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/wakatime?username=codebygideon&layout=compact&custom_title=WakaTime&langs_count=6&theme=gruvbox)](https://wakatime.com/@codebygideon)
