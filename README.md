@@ -1,1 +1,1 @@
-[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=codebygideon&include_all_commits=true&theme=date_night)](https://github-stats-extended.vercel.app/api?username=codebygideon&include_all_commits=true&theme=date_night)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=codebygideon&custom_title=Estat%C3%ADsticas%20do%20GitHub%20&include_all_commits=true&theme=buefy)](https://github-stats-extended.vercel.app/api?username=codebygideon&custom_title=Estat%C3%ADsticas%20do%20GitHub%20&include_all_commits=true&theme=buefy)
