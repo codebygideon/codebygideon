@@ -59,6 +59,6 @@ Me chamo José Gideon, tenho 23 anos e sou natural de Brasília, capital do Bras
 
 ### 📊 Estatísticas
 
-[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=codebygideon&custom_title=Estat%C3%ADsticas%20do%20GitHub%20&include_all_commits=true&theme=gruvbox)](https://github-stats-extended.vercel.app/api?username=codebygideon&custom_title=Estat%C3%ADsticas%20do%20GitHub%20&include_all_commits=true&theme=gruvbox)
+<figure><embed src="https://wakatime.com/share/@codebygideon/8abc555a-1f01-4892-9602-7615fe80105c.svg"></embed></figure>
 
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/wakatime?username=codebygideon&layout=compact&custom_title=WakaTime&langs_count=6&theme=gruvbox)](https://wakatime.com/@codebygideon)
+<figure><embed src="https://wakatime.com/share/@codebygideon/bd700372-70f7-406f-b615-125c05031c04.svg"></embed></figure>
