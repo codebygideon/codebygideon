@@ -35,8 +35,6 @@ Me chamo José Gideon, tenho 23 anos e sou natural de Brasília, capital do Bras
 />
 
 <br/>
-<br/>
-
 ---
 
 ### 🔗 Onde me encontrar
@@ -50,15 +48,8 @@ Me chamo José Gideon, tenho 23 anos e sou natural de Brasília, capital do Bras
             src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" 
         />
     </a>
-</p>
-
-<br/>
 <br/>
 
 ---
 
 ### 📊 Estatísticas
-
-src="https://wakatime.com/share/@codebygideon/8abc555a-1f01-4892-9602-7615fe80105c.svg"
-
-src="https://wakatime.com/share/@codebygideon/bd700372-70f7-406f-b615-125c05031c04.svg"
